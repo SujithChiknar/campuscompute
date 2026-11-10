@@ -1,0 +1,10 @@
+2026-11-06T06:28:38Z SUBMIT   producer=1 Lab job submitted
+2026-11-06T06:28:38Z READY    producer=1 Job admitted to ready queue
+2026-11-06T06:28:38Z DISPATCH producer=1 CPU assigned
+2026-11-06T06:28:38Z RUN      producer=1 CPU burst executing
+2026-11-06T06:28:38Z COMPLETE producer=1 Job completed
+2026-11-06T06:28:38Z SUBMIT   producer=2 Lab job submitted
+2026-11-06T06:28:38Z READY    producer=2 Job admitted to ready queue
+2026-11-06T06:28:38Z DISPATCH producer=2 CPU assigned
+2026-11-06T06:28:38Z RUN      producer=2 CPU burst executing
+2026-11-06T06:28:38Z COMPLETE producer=2 Job completed
